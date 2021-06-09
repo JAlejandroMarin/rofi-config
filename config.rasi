@@ -4,7 +4,7 @@ configuration {
         width: 50;
         lines: 15;
         columns: 1;
-        font: "Hack Nerd font 12";
+        font: "CaskaydiaCove NF 14";
         bw: 1;
         location: 0;
         padding: 5;
